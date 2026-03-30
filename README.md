@@ -64,7 +64,7 @@
 | Project | Tech Stack |
 |---|---|
 | 📊 **Real-Time KPI Dashboard for Rail Infrastructure** | Dashboard · Data Visualization |
-| 🗄️ **Employee Database System** | Java |
+| 🗄️ **Employee Database System** | SQL |
 | 🃏 **Flashcard Quiz App** | JavaScript · HTML · CSS |
 | 💬 **Random Quote Generator** | HTML · CSS · JavaScript |
 
