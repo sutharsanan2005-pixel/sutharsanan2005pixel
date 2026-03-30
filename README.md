@@ -38,6 +38,17 @@ Web application using HTML, CSS, JavaScript
 🔹 **Flashcard Quiz App**  
 Interactive learning application
 
+🔹 **Iot Based Underground Leakage System using Seismic sensor and GSM**  
+ESP-32 + Sensors + Seismic Sensor + GSM
+
+🔹 **Iot Based Hazard Detection System**
+ESP32 + Temp + Buzzer + Heat Sensors
+
+🔹 **Real-Time KPI Dashboard For Rail Infrastructure** 
+Dashboard for real-time project monitoring and stakeholder visibility
+
+🔹 **Employee Database**  
+simulates a real-world Employee Management System
 ---
 
 ## 📊 GitHub Stats
