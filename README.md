@@ -48,7 +48,7 @@ ESP32 + Temp + Buzzer + Heat Sensors
 Dashboard for real-time project monitoring and stakeholder visibility
 
 🔹 **Employee Database**  
-simulates a real-world Employee Management System
+Simulates a real-World Employee Management System
 ---
 
 ## 📊 GitHub Stats
