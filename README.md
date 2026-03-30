@@ -53,20 +53,21 @@
 
 ### ⚙️ IoT & Embedded Systems
 
-| Project | Tech Stack |
-|---|---|
-| 🌊 **PCB-Based Real-Time Water Quality Monitoring System** | ESP32 · Sensors · Cloud Dashboard |
-| 🔍 **IoT Based Underground Leakage Detection System** | ESP32 · Seismic Sensor · GSM |
-| 🚨 **IoT Based Hazard Detection System** | ESP32 · Temp Sensor · Heat Sensor · Buzzer |
+| Project | Repository | Tech Stack |
+|---|---|---|
+| 🌊 **PCB-Based Water Quality Monitoring System** | [PCB-based-water-moni...](https://github.com/sutharsanan2005-pixel/PCB-based-water-monitoring) | ESP32 · Sensors · Cloud Dashboard |
+| 🔍 **IoT Based Underground Leakage Detection** | [IOT-based-undergroun...](https://github.com/sutharsanan2005-pixel/IOT-based-underground-leakage) | ESP32 · Seismic Sensor · GSM |
+| 🚨 **IoT Based Hazard Detection System** | — | ESP32 · Temp · Heat Sensors · Buzzer |
 
 ### 💻 Software & Web
 
-| Project | Tech Stack |
-|---|---|
-| 📊 **Real-Time KPI Dashboard for Rail Infrastructure** | Dashboard · Data Visualization |
-| 🗄️ **Employee Database System** | SQL |
-| 🃏 **Flashcard Quiz App** | JavaScript · HTML · CSS |
-| 💬 **Random Quote Generator** | HTML · CSS · JavaScript |
+| Project | Repository | Tech Stack |
+|---|---|---|
+| ✅ **Taskly — To-Do List App** | [Taskly---To-Do-List-App](https://github.com/sutharsanan2005-pixel/Taskly---To-Do-List-App) | JavaScript · HTML · CSS |
+| 🗄️ **Employee Database System** | [employee-database](https://github.com/sutharsanan2005-pixel/employee-database) | Java |
+| 📊 **Real-Time KPI Dashboard for Rail Infrastructure** | — | Dashboard · Data Visualization |
+| 🃏 **Flashcard Quiz App** | — | JavaScript · HTML · CSS |
+| 💬 **Random Quote Generator** | — | HTML · CSS · JavaScript |
 
 ---
 
@@ -84,6 +85,22 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sutharsanan2005-pixel&theme=tokyonight&hide_border=true&background=0D1117&ring=00C7FF&fire=00C7FF&currStreakLabel=00C7FF" width="60%" />
 </p>
+
+---
+
+## 📅 Recent Activity — March 2026
+
+> 🟢 **21 commits** across **7 repositories** this month
+
+| Repository | Commits |
+|---|---|
+| sutharsanan2005-pixel (Profile) | 6 commits |
+| water-quality-monitoring | 4 commits |
+| IOT-based-underground-leakage | 4 commits |
+| employee-database | 2 commits |
+| Taskly---To-Do-List-App | 2 commits |
+| PCB-based-water-monitoring | 2 commits |
+| sutharsanan2005 (Profile) | 1 commit |
 
 ---
 
