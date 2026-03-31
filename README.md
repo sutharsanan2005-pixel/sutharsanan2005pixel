@@ -125,5 +125,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sutharsanan2005-pixel&style=flat-square&color=00C7FF" alt="Profile Views" />
 </p>
-
-rewrite the code for correct github stats
