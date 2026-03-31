@@ -74,8 +74,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sutharsanan2005-pixel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7FF&icon_color=00C7FF&text_color=FFFFFF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sutharsanan2005-pixel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7FF&text_color=FFFFFF" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sutharsanan2005-pixel&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sutharsanan2005-pixel&theme=dark&hide_border=false" alt="GitHub Streak" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sutharsanan2005-pixel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 ---
