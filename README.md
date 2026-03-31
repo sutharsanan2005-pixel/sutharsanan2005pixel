@@ -22,10 +22,10 @@
 
 ## 👨‍💻 About Me
 
-[cite_start]🎓 **B.Tech Electronics & Communication Engineering Student** at Sri Manakula Vinayagar Engineering College[cite: 14, 73].  
-[cite_start]💡 Interested in **Embedded Systems, IoT, and Software Development**[cite: 135, 136].  
-[cite_start]🔬 Working on **Real-Time Monitoring Systems** using ESP32, including water quality and seismic leak detection[cite: 92, 187].  
-[cite_start]🚀 Passionate about building innovative technology solutions that bridge hardware and software[cite: 48, 636].
+🎓 **B.Tech Electronics & Communication Engineering Student** at Sri Manakula Vinayagar Engineering College.  
+💡 Interested in **Embedded Systems, IoT, and Software Development**  
+🔬 Working on **Real-Time Monitoring Systems** using ESP32, including water quality and seismic leak detection.  
+🚀 Passionate about building innovative technology solutions that bridge hardware and software.
 
 ---
 
@@ -55,9 +55,9 @@
 
 | Project | Tech Stack | Highlights |
 |---|---|---|
-| 🌊 **PCB-Based Water Quality Monitoring** | ESP32 · Sensors · ThingSpeak | [cite_start]Real-time pH, TDS, Turbidity monitoring with automated solenoid shutdown[cite: 92, 100, 162]. |
-| 🔍 **Underground Leakage Detection** | ESP32 · MPU-6500 · GSM | [cite_start]Detects seismic vibrations in pipelines and sends SMS alerts via SIM800L[cite: 1, 189, 190]. |
-| 🚨 **Hazard Detection System** | ESP32 · Temp · Heat Sensors | [cite_start]Real-time multi-sensor hazard detection with buzzer alerts[cite: 253, 262]. |
+| 🌊 **PCB-Based Water Quality Monitoring** | ESP32 · Sensors · ThingSpeak | Real-time TDS, Turbidity monitoring with automated cloud Dashboard. |
+| 🔍 **Underground Leakage Detection** | ESP32 · MPU-6500 · GSM |Detects seismic vibrations in pipelines and sends SMS alerts via SIM800L. |
+| 🚨 **Hazard Detection System** | ESP32 · Temp · Heat Sensors | Real-time multi-sensor hazard detection with buzzer alerts. |
 
 ### 💻 Software & Web
 
@@ -88,9 +88,9 @@
 
 | Repository | Focus |
 |---|---|
-| **water-quality-monitoring** | [cite_start]PCB-based sensor integration and WQI logic[cite: 98, 157]. |
-| **IOT-based-underground-leakage** | [cite_start]GSM alerting and vibration threshold calibration[cite: 190, 571]. |
-| **employee-database** | Java-based backend management. |
+| **water-quality-monitoring** | PCB-based sensor integration and WQI logic. |
+| **IOT-based-underground-leakage** | GSM alerting and vibration threshold calibration. |
+| **employee-database** | SQL-based database management. |
 
 ---
 
