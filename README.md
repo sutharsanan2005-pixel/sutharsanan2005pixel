@@ -66,8 +66,8 @@
 | ✅ **Taskly — To-Do List App** | [Taskly---To-Do-List-App](https://github.com/sutharsanan2005-pixel/Taskly---To-Do-List-App) | JavaScript · HTML · CSS |
 | 🗄️ **Employee Database System** | [employee-database](https://github.com/sutharsanan2005-pixel/employee-database) | Java |
 | 📊 **Real-Time KPI Dashboard for Rail Infrastructure** | — | Dashboard · Data Visualization |
-| 🃏 **Flashcard Quiz App** | — | JavaScript · HTML · CSS |
-| 💬 **Random Quote Generator** | — | HTML · CSS · JavaScript |
+| 🃏 **Flashcard Quiz App** | https://github.com/sutharsanan2005-pixel/CodeAlpha_tasks | JavaScript · HTML · CSS |
+| 💬 **Random Quote Generator** | https://github.com/sutharsanan2005-pixel/CodeAlpha_RandomQuoteGenerator | HTML · CSS · JavaScript |
 
 ---
 
