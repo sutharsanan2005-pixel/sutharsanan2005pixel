@@ -75,7 +75,6 @@ sutharsanan = {
 |---|---|---|---|
 | 🌊 **Water Quality Monitoring System** | PCB-based real-time water quality monitor using TDS & turbidity sensors with WQI calculation, cloud dashboard & buzzer alerts | ESP32 · ThingSpeak · C | [View →](https://github.com/sutharsanan2005-pixel/PCB-based-water-monitoring) |
 | 🔍 **IoT Underground Leakage Detection** | Pipeline leak detection system using seismic sensors and GSM for remote alerts | Arduino · GSM · Embedded C | [View →](https://github.com/sutharsanan2005-pixel/IOT-based-underground-leakage) |
-| 🚌 **Bus Luggage Tracking (RFID)** | RFID-based luggage tracking with IST-synced timestamps and ThingSpeak logging | ESP32 · RC522 · ThingSpeak | — |
 | 🚨 **IoT Hazard Detection System** | Multi-sensor hazard detection with temperature, heat sensors, and buzzer alerts | ESP32 · Sensors | — |
 
 ### 💻 Software & Web
