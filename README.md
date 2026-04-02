@@ -188,7 +188,6 @@ sutharsanan2005 (Profile)            █░░░░░░░░░░░   1 co
 | credential | issuer | type |
 |---|---|---|
 | 🏅 CCNA | Cisco | Networking Certification |
-| 📘 Problem Solving in C | IIT Kharagpur · NPTEL | Course Certificate |
 | 💼 Technology Internship | Deloitte · Forage | Virtual Internship |
 | ☁️ AWS Virtual Internship | AICTE EduSkills | Virtual Internship |
 | 🎮 Software Eng. Internship | Electronic Arts · Forage | Virtual Internship |
