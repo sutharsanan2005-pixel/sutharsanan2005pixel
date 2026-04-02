@@ -43,7 +43,6 @@ sutharsanan = {
 **Languages**
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -55,7 +54,6 @@ sutharsanan = {
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![PCB Design](https://img.shields.io/badge/PCB%20Design-007ACC?style=flat-square)
-![RFID RC522](https://img.shields.io/badge/RFID%20RC522-555555?style=flat-square)
 ![ThingSpeak](https://img.shields.io/badge/ThingSpeak-0076A8?style=flat-square)
 ![GSM SIM800](https://img.shields.io/badge/GSM%20SIM800-444444?style=flat-square)
 
@@ -94,12 +92,6 @@ sutharsanan = {
       <td>Pipeline leak detection using seismic sensors with GSM remote alerts</td>
       <td><code>Arduino</code> <code>GSM</code> <code>Embedded C</code></td>
       <td><a href="https://github.com/sutharsanan2005-pixel/IOT-based-underground-leakage">view →</a></td>
-    </tr>
-    <tr>
-      <td>🚌 <b>Bus Luggage Tracking</b></td>
-      <td>RFID-based luggage tracking with IST-synced timestamps and ThingSpeak logging</td>
-      <td><code>ESP32</code> <code>RC522</code> <code>ThingSpeak</code></td>
-      <td><code>WIP</code></td>
     </tr>
     <tr>
       <td>🚨 <b>Hazard Detection System</b></td>
